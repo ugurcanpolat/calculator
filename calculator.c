@@ -1,3 +1,8 @@
+   /* ***************** */
+  /*   Ugurcan Polat   */
+ /* polatu@itu.edu.tr */
+/* ***************** */
+
 #include <stdio.h>
 #define PI 3.14159265
 
@@ -276,4 +281,3 @@ void wrong (){ //if user enters wrong character or number, prints operators
 	printf ("pi (P) \nQuit (Q) \nMemory (M) \nClear (C) \nMemory Clear (MC) \nMemory Return (MR) \n");
 	printf ("--------------------------------------------------------------\n\n");
 }
-
